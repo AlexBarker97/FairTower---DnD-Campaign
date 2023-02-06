@@ -1,10 +1,11 @@
 # "DnD Fairtower - The descent"
 
-Plotholes - 
+Plotholes -
 Communication between nations.
 How were the people on the new world selected and where did they come from (why did they leave).
 How is the government enforcing the enrolment.
 How does the political system work.
+Have people heard different rumours as to why the training is happening.
 
 
 Details:
