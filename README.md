@@ -10,11 +10,14 @@ Multiple training camps across the nation, the players all turn up at one named 
 (First 5 levels of the tower, can be conquered 1 day each if successful on each)
 Players given a stimulant to multiply their training rate (allowing them to achieve 1 level per day)
 
+Maybe 200 people of all races and ages gathering in the welcome floor. All are very new to this, nobody has failed floor 1 and been asked to re-do it.
+
 Floor 1: The welcome floor
 Simple 1 on 1 combat vs simulation/hologram target dummies. Players will get to know the other npc's at this entry point. Get to know eachother, small level 1 combat. (they will get babied through this)
 
 Floor 2: Duet
 Paired up with partners (chosen by players) (could be npc or other players) (these will not be permenant partners but will be good to get players invested in some NPCs)
+Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2?
 
 Floor 3: Liberation
 Specific challenges for each player, designed to specialise them (class features)
