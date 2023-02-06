@@ -12,21 +12,21 @@ Players given a stimulant to multiply their training rate (allowing them to achi
 
 Maybe 200 people of all races and ages gathering in the welcome floor. All are very new to this, nobody has failed floor 1 and been asked to re-do it.
 
-Floor 1: The welcome floor
+Floor 1: "The welcome floor"
 Simple 1 on 1 combat vs simulation/hologram target dummies. Players will get to know the other npc's at this entry point. Get to know eachother, small level 1 combat. (they will get babied through this)
 
-Floor 2: Duet
+Floor 2: "Duet"
 Paired up with partners (chosen by players) (could be npc or other players) (these will not be permenant partners but will be good to get players invested in some NPCs)
 Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure. It is explained to them that if they fail in the evening, they get to addempt to redo it the next morning to not fall behind.
 
-Floor 3: Liberation
+Floor 3: "Liberation"
 Specific challenges for each player, designed to specialise them (class features)
 
-Floor 4: Team working
+Floor 4: "Team working"
 Finally get to form their own group (likely the party of player characters)
 The nation is fixated on the most optimal squad size being (Party number +1)
 
-Floor 5: The exam
+Floor 5: "The exam"
 They are given written tests which seem impossibly hard
 As they get questions wrong the examiners become more and more angry
 Examiners innevitably become aggressive and you must fight them (they turn out to be holograms and defeating them is the final test)
