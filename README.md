@@ -2,7 +2,7 @@
 
 Plotholes -
 
-• Communication between nations.
+• Communication between nations over the month before training?
 • How were the people on the new world selected and where did they come from (why did they leave).
 • How is the government enforcing the enrolment.
 • How does the political system work.
