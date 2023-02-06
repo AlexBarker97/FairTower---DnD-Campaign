@@ -17,7 +17,7 @@ Simple 1 on 1 combat vs simulation/hologram target dummies. Players will get to 
 
 Floor 2: Duet
 Paired up with partners (chosen by players) (could be npc or other players) (these will not be permenant partners but will be good to get players invested in some NPCs)
-Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure.
+Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure. It is explained to them that if they fail in the evening, they get to addempt to redo it the next morning tonot fall behind.
 
 Floor 3: Liberation
 Specific challenges for each player, designed to specialise them (class features)
