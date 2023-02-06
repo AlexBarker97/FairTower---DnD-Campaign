@@ -1,4 +1,4 @@
-# TowerIdea
+# DnD Fair Tower
 
 A bit magical/cyberpunky of a world, futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
 This new planetary civilisation has achieved peace and held it for 100+ years now, there is still violence, petty crimes and democratic unrest but is largely peaceful with no wars to be found. The civilisation is broken up into hundreds of nations co-existing. These all have a mix of almost all races.
