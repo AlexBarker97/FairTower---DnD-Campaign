@@ -1,23 +1,42 @@
 # "DnD Fairtower - The descent"
 
+Plotholes - 
+Communication between nations.
+How were the people on the new world selected and where did they come from (why did they leave).
+How is the government enforcing the enrolment.
+How does the political system work.
+
+
+Details:
+Training to join the "People's Guard"
+Guards on floors which keep you from entering a floor you have not yet unlocked.
+People you have met coming back from the training have been fairly underwhelmed and have just told you you will see when you get there.
+
 Futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
-This new planetary civilisation has achieved peace and held it for 100+ years now, there is still violence, petty crimes and democratic unrest but is largely peaceful with no wars to be found. The civilisation is broken up into hundreds of nations co-existing. These all have a mix of almost all races.
+This new planetary civilisation has achieved peace and held it for 100+ years now.
+The civilisation is broken up into hundreds of nations co-existing. These all have a mix of almost all races.
 
-Without much explanation across the nation, 5 days of mandatory training is required for all ages above (adulthood/maturity based on race) (each race has multiplier on this for maturity (Humans 18 years etc...). Nobody is quite sure of the purpose or if other nations are also required to do so.
+Without much explanation across the nation, 5 days of mandatory training is required for all in adulthood (whatever that is for the race, Humans 18+ etc...).
+Nobody is told the purpose or knows if other nations are also required to do so.
 
-Multiple training camps across the nation, the players all turn up at one named "Fairtower". Simple 5 floor tall building, very boring and mundane from the outside. As the players progress each day they go up a floor.
+Multiple training camps across the nation spring up and the players recieve mail inviting them to attend, for one reason or another all players avoid this invite for the first month before they are threatened. (Up to the players creativity of why they delayed and what they would be threatened with).
+The players all turn up at a training camp named "Fairtower". A tiresome 5 floor building, very boring and mundane from the outside, surrounded by temporary accomodation.
 
-(First 5 levels of the tower, can be conquered 1 day each if successful on each)
-Players given a stimulant to multiply their training rate (allowing them to achieve 1 level per day)
+As the players progress each day they go up a floor.
+Levels of the tower should be conquered 1/day if successful in the training tasks.
+Players are given a stimulant to multiply their training rate allowing them to pick up new skills and stay in a heightened state for long periods.
 
-Maybe 200 people of all races and ages gathering in the welcome floor. All are very new to this, nobody has failed floor 1 and been asked to re-do it.
+The camp: Fairly full, enough accomodation for maybe 400 people by eye, very newly built with plenty of food, drink and utilities heavily subsidised.
 
 Floor 1: "The welcome floor"
+Introduction key points; It has come to the attention of the universal committee that very few people on the planet would be even able to defend given a hostile force. They have proposed a baseline of ability for every member of the planet to be learnt at maturity. There are 200 people here today, you will be fed, and looked after. Nobody has failed floor 1.
+
+On the Maybe 200 people of all races and ages gathering in the welcome floor. All are very new to this, nobody has failed floor 1 and been asked to re-do it.
 Simple 1 on 1 combat vs simulation/hologram target dummies. Players will get to know the other npc's at this entry point. Get to know eachother, small level 1 combat. (they will get babied through this)
 
 Floor 2: "Duet"
 Paired up with partners (chosen by players) (could be npc or other players) (these will not be permenant partners but will be good to get players invested in some NPCs)
-Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure. It is explained to them that if they fail in the evening, they get to addempt to redo it the next morning to not fall behind.
+Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure. It is explained to them that if they fail in the evening, they get to attempt to redo it the next morning to not fall behind.
 
 Floor 3: "Liberation"
 Specific challenges for each player, designed to specialise them (class features)
@@ -25,6 +44,7 @@ Specific challenges for each player, designed to specialise them (class features
 Floor 4: "Team working"
 Finally get to form their own group (likely the party of player characters)
 The nation is fixated on the most optimal squad size being (Party number +1)
+Some are deliberately failing this level to be able to spend more time living cheaply and well in the subsidised camp.
 
 Floor 5: "The exam"
 They are given written tests which seem impossibly hard
