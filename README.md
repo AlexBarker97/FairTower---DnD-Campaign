@@ -13,6 +13,7 @@ Details:
 Training to join the "People's Guard"
 Guards on floors which keep you from entering a floor you have not yet unlocked.
 People you have met coming back from the training have been fairly underwhelmed and have just told you you will see when you get there.
+Johnathan Blaster
 
 Futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
 This new planetary civilisation has achieved peace and held it for 100+ years now.
