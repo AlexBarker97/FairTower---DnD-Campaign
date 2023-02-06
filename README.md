@@ -1,6 +1,6 @@
 # "DnD Fairtower - The descent"
 
-A bit magical/cyberpunky of a world, futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
+Futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
 This new planetary civilisation has achieved peace and held it for 100+ years now, there is still violence, petty crimes and democratic unrest but is largely peaceful with no wars to be found. The civilisation is broken up into hundreds of nations co-existing. These all have a mix of almost all races.
 
 Without much explanation across the nation, 5 days of mandatory training is required for all ages above (adulthood/maturity based on race) (each race has multiplier on this for maturity (Humans 18 years etc...). Nobody is quite sure of the purpose or if other nations are also required to do so.
