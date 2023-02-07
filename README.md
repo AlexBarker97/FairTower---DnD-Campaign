@@ -8,8 +8,9 @@ Plotholes -
 • How does the political system work.
 • Have people heard different rumours as to why the training is happening.
 • Technology time period
-
-
+• How common is magic in the world (almost non-existent day to day)
+• Proportions of different races in the world, which are included and which are excluded?
+• Time period and technology available
 
 
 Details:
