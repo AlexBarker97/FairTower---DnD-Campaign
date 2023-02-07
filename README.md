@@ -19,6 +19,8 @@ Guards on floors which keep you from entering a floor you have not yet unlocked.
 People you have met coming back from the training have been fairly underwhelmed and have just told you you will see when you get there.
 Johnathan Blaster
 In some trail rooms you begin by stepping through stretched paste and falling into water (portal into another dimension) where you can fight monsters 
+Con save + portal proficiency dice roll each dimension shift to find out what side-effefts you experience 
+Shifting pools to meditate in between levels, if the party wanta to train their portal proficiency 
 
 Futuristic civilisation on a new planet that they fled to, to avoid self-destruction through war.
 This new planetary civilisation has achieved peace and held it for 100+ years now.
