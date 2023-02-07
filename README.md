@@ -1,9 +1,7 @@
 # "DnD Fairtower - The descent"
 
 Plotholes -
-
-• Communication between nations over the month before training?
-• How were the people on the new world selected and where did they come from (why did they leave).
+• How were the people on the new world selected and where did they come from.
 • How is the government enforcing the enrolment.
 • How does the political system work.
 • Have people heard different rumours as to why the training is happening.
@@ -14,6 +12,8 @@ Plotholes -
 
 
 Details:
+• Spell slots, ammo, health all reset between portal resets.
+• Communication between nations over the month before training - All nations seem to have agreed not to divulge information until members are at the training camp.
 This world could be consideded a utopia, there is universal healthcare, people live long and well. Unemployment is almost non-existent and petty crimes are all vut eradicated. People's jobs don't earn them pay, they directly give them access to a selection of houses, cars, holiday packages for their job "bracket". Everyone is paid the same amount outside of these job based benefits.
 The economy is extrodinarily healthy and the government fully control it all seemingly well.
 Plot twist spoiler: The government is pumping this money currently into technology toberadicate and terraform other nearby planets quietly. This is what the playwrs fight in the portal dimensions. And mandatory traininf ia required as the gov has realised assaulting these nearby planets may bring retaliation.
