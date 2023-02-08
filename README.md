@@ -12,6 +12,7 @@ Plotholes -
 
 
 Details:
+• Competitive element of the tower, eliminations mean points, points mean currency outside of combat?
 • Spell slots, ammo, health all reset between portal resets.
 • Communication between nations over the month before training - All nations seem to have agreed not to divulge information until members are at the training camp.
 This world could be consideded a utopia, there is universal healthcare, people live long and well. Unemployment is almost non-existent and petty crimes are all vut eradicated. People's jobs don't earn them pay, they directly give them access to a selection of houses, cars, holiday packages for their job "bracket". Everyone is paid the same amount outside of these job based benefits.
