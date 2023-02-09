@@ -10,6 +10,8 @@ Plotholes -
 • Proportions of different races in the world, which are included and which are excluded?
 • Time period and technology available
 
+The People's guild have bitten off more than they can chew with their latest expansion. Like it or not, we are entering into a war, and the moment we stop attacking we will be met at home with a gigantic army, potentially an extinction level event. Players start to notice that the things they are fighting are sentient, getting stronger, and attempting to foolow them back through the portal. Perhaps someone does not return through the portal at some point.
+
 
 Details:
 • Competitive element of the tower, eliminations mean points, points mean currency outside of combat?
