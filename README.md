@@ -12,6 +12,18 @@ Plotholes -
 
 The People's guild have bitten off more than they can chew with their latest expansion. Like it or not, we are entering into a war, and the moment we stop attacking we will be met at home with a gigantic army, potentially an extinction level event. Players start to notice that the things they are fighting are sentient, getting stronger, and attempting to foolow them back through the portal. Perhaps someone does not return through the portal at some point.
 
+Initial -2 to each stat (-1 stat modifier)
+
+Level 1:
+Training stimulant, +2 each stat. Fighting, Worldbuilding, same dimension combat, training mode, meeting new characters
+
+Level 2:
+Duet combat, working together, relationship building, people begin to have their fighting style, still in the same dimension
+
+Level 3:
+Specialised challenges for each player & introduction to portals and the portal constitution to travel through them.
+
+
 
 Details:
 • Competitive element of the tower, eliminations mean points, points mean currency outside of combat?
