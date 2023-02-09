@@ -1,9 +1,11 @@
 Pre sessions (0):
-	Initial -2 to each stat (-1 mod)
+	Initial -2 to each stat (-1 mod).
+	How is the government enforcing the enrolment? With each character.
+	Rumours as to why the training is happening, let people have them.
 
 Session 1: "Humble beginnings"
 	Setting / World building
-	Training camp commander explains that the civilisation has grown weak and incapable of defending itself.
+	Training camp commander will not explain why they are training.
 		It has come to the attention of the universal committee that very few people on the planet would be even able to defend given a hostile force
 		They have proposed a baseline of ability for every member of the planet to be learnt at maturity. There are 200 people here today, you will be fed, and looked after. Nobody has failed floor 1.
 	This training is on order from The People's Guild.
@@ -33,6 +35,7 @@ Session 3: "Liberation"
 
 Session 4: "Team working"
 	The nation is fixated on the most optimal squad size being (Party number +1)
+	Authority explains that the civilisation has grown weak and incapable of defending itself.
 	Level 4:
 		Finally get to form their own group (likely the party of player characters)
 		Some are deliberately failing this level to be able to spend more time living cheaply and well in the subsidised camp.
@@ -49,4 +52,12 @@ Session 5: "The exam"
 Session 6: "The Descent"
 	The challenges begin to go down deeper underground 1 floor at a time.
 	Level 6: (Floor-1)
-	
+		Change in type of enemies, less willing to fight back
+
+Session 7: "What's Fair is Fair"
+	Level 7:
+		Upon completion players recieve different rewards?
+
+Session 8:
+	Big underworld & Shopping - "Playground" - LoL
+	Maybe Level 8?
