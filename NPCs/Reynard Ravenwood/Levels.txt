@@ -1,0 +1,18 @@
+Str 
+Wil 
+Con 
+Cha Spell Casting
+Int 
+Dex 
+
+First 10 Levels
+1 Fighter1	Fighting Style (Interception), Second Wind
+2 Paladin1	Divine Sense, Lay on Hands
+3 Fighter2	Action Surge (x1)
+4 Paladin2	Fighting Style, Spellcasting, Divine Smite
+5 Fighter3	Martial Archetype (Rune knight)
+6 Paladin3	Divine Health, Sacred Oath, Harness Divine Power (Optional)
+7 Fighter4	Ability Score Improvement
+8 Fighter5	Extra Attack (x1)
+9 Fighter6	Ability Score Improvement, Martial Versatility (Optional)
+10Fighter7	Martial Archetype feature (Rune knight 7th)

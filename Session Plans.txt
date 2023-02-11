@@ -4,31 +4,36 @@ Pre sessions (0):
 	Rumours as to why the training is happening, let people have them.
 
 Session 1: "Humble beginnings"
-	Setting / World building
-	Training camp commander will not explain why they are training.
-		It has come to the attention of the universal committee that very few people on the planet would be even able to defend given a hostile force
-		They have proposed a baseline of ability for every member of the planet to be learnt at maturity. There are 200 people here today, you will be fed, and looked after. Nobody has failed floor 1.
+	Floor 0:
+		Setting / World building
+		Training camp commander will not explain why they are training.
+			It has come to the attention of the universal committee that very few people on the planet would be even able to defend given a hostile force
+			They have proposed a baseline of ability for every member of the planet to be learnt at maturity. There are 200 people here today, you will be fed, and looked after. Nobody has failed level 1.
 	This training is on order from The People's Guild.
 	Explain the tower and the process; Fairtower, 5 floors, testing each afternoon, morning to yourselves.
 	Explain the stimulant (Stamin-X)"S-X" label which is here to allow the "civ's" to train harder and for longer.
 	Time to get to know other characters.
 	Time to look around the place / explore.
+	Floor 1:
 	Level 1:
 		Afternoon, a bell is rung and people congregate around the commander with a few other of the people's guard, these with notepads and clipboards.
 		Players each take turns to undergo quick and embarrasing combat, which they will be babied through.
 		Simple 1 on 1 combat vs simulation/hologram target dummies. Players will get to know the other npc's at this entry point. Get to know eachother, small level 1 combat. (they will get babied through this)
 
 Session 2: "Duet"
-	Character progression, characters will be a bit more confident, shown the sensory pools.
-	Maybe see some guards slightly worried about the events on higher floors ("issues with the gates" meaning the portals)
-	Perhaps they can meet a few characters who failed level 2
-
+	Floor 1:
+		Character progression, characters will be a bit more confident, shown the sensory pools.
+		Maybe see some guards slightly worried about the events on higher floors ("issues with the gates" meaning the portals)
+		Perhaps they can meet a few characters who failed level 2
+	Floor 2:
 	Level 2:
 		Duet combat, working together, relationship building, people begin to have their fighting style, still in the same dimension, opponents simulated.
 		Paired up with partners (chosen by players) (could be npc or other players) (these will not be permenant partners but will be good to get players invested in some NPCs)
 		Perhaps the party can meet one or two people who have failed the duet amd meeded to re-do floor2? This is where they are introduced to the concept of potential failure. It is explained to them that if they fail in the evening, they get to attempt to redo it the next morning to not fall behind.
 
 Session 3: "Liberation"
+	Floor 2:
+		???
 	Level 3:
 		Specialised challenges for each player & introduction to portals and the portal constitution to travel through them. Every player should feel out of their depth, jumping between multiple different battles.
 		Specific challenges for each player, designed to specialise them (class features)
@@ -51,13 +56,14 @@ Session 5: "The exam"
 
 Session 6: "The Descent"
 	The challenges begin to go down deeper underground 1 floor at a time.
-	Level 6: (Floor-1)
-		Change in type of enemies, less willing to fight back
+	Big underworld world - Trinkets choose you
+	"Playground" - LoL
 
 Session 7: "What's Fair is Fair"
-	Level 7:
-		Upon completion players recieve different rewards?
+	Level 6:
+		Underground levels are rewarded with tokens. Upon completion players recieve different rewards. Partys recieve different rewards for the same task.
+		What do all the workers do for a living down here?...
 
 Session 8:
-	Big underworld & Shopping - "Playground" - LoL
-	Maybe Level 8?
+	Level 7?
+		Change in type of enemies, less willing to fight back
