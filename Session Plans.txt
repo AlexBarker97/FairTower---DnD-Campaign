@@ -57,6 +57,7 @@ Session 5: "The exam"
 Session 6: "The Descent"
 	The challenges begin to go down deeper underground 1 floor at a time.
 	Big underworld world - Trinkets choose you
+	Most don't have a full squad as they have fallen in battle
 	"Playground" - LoL
 
 Session 7: "What's Fair is Fair"
