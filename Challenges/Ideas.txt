@@ -1,3 +1,5 @@
 Map with hidden clues
 	20 clues, find them in random order,
 	Roll 1d20, 1d19, 1d18...
+
+Gideon lightward
