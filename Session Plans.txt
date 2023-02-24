@@ -64,13 +64,14 @@ Session 6: "The Descent"
 		The challenges begin to go down deeper underground 1 floor at a time.
 		Big underworld world - Trinkets choose you
 		Most don't have a full squad as they have fallen in battle
+		You have to keep taking Stamin-X or you will die (Exhaustion per day)
 		"Playground" - LoL
 
 Session 7: "What's Fair is Fair"
 	Challenge 6:
 		Underground levels are rewarded with tokens. Upon completion players recieve different rewards. Partys recieve different rewards for the same task.
-		What do all the workers do for a living down here?...
+		Tokens earn you Stamin-X
+		What do all the workers do for a living down here?... (once an area is made safe they harvest it)
 
 Session 8:
-	Challenge 7?
-		Change in type of enemies, less willing to fight back
+	Challenge 7:
