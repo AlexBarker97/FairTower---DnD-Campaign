@@ -1,0 +1,17 @@
+Tabaxi Ranger 1
+
+Favoured enemy: Humanoid (Owlin & Kenku)
+
+Deft Explorer (Optional)
+Has spent his years travelling the nations, doing small jobs for people along the way to make a living
+Expertise in stealth
+
+Languages: Common, Auran, Dwarvish, Minotaur.
+
+Stats
+Str	-	10
+Dex	-	16	+2
+Con	-	12
+Int	-	10
+Wis	-	10
+Cha	-	13	+1

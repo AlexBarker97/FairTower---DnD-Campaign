@@ -1,0 +1,40 @@
+Luna Moonwing
+Owlkin with a spear (not proficient)
+
+Literally not even a class.
+Can use charm person as an action
+She can't lie (-10 deception)
+
+Str	6
+Dex	6
+Con	6
+Int	18
+Wis	18
+Cha	14
+
+Acrobatics (-2)
+Animal Handling (4) +3
+Arcana (4)
+Athletics (-2)
+Deception (-10)
+History (4) +3
+Insight (4) +3
+Intimidation (2)
+Investigation (4)
+Medicine (4) +3
+Nature (4) +3
+Perception (4) +3
+Performance (2)
+Persuasion (2)
+Religion (4)
+Sleight of Hand (-2)
+Stealth (-2)
+Survival (4)
+
+Very wise and wholesome, will know what's going on
+	animal handling
+	history
+	insight
+	medicine
+	nature
+	perception

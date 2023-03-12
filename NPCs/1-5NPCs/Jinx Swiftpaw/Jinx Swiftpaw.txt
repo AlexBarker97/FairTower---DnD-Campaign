@@ -1,0 +1,18 @@
+Jinx Swiftpaw
+Cunning Rogue built for fighting
+
+Starting stats:
+Str	-	8	
+Dex	-	16	+2
+Con	-	10
+Int	-	8
+Wis	-	10
+Cha	-	13	+1
+
+Prof 4 from class, 2 from race
+Stealth (expertise)
+Perception (expertise)
+Insight
+Athletics
+Acrobatics
+Deception

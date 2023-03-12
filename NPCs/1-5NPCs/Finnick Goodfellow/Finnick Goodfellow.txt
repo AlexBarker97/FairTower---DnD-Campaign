@@ -1,0 +1,13 @@
+Standard Human - Rogue
+
+A really nice charismatic guy
+
+Starting
+Str		9	+ 1		10
+Dex		15	+ 1		16
+Con		8	+ 1		9
+Int		11	+ 1		12
+Wis		13	+ 1		14
+Cha		15	+ 1		16
+
+Expertise in Persuasion and Deception

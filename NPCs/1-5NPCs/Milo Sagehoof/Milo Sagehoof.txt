@@ -1,0 +1,13 @@
+Minotaur (Amonkhet) Druid
+30, close to dying of old age
+
+Unarmed Combat
+Magic druid who is very in touch with nature but uses force to create magic
+
+Starting Stats
+Str	-	12	+2
+Dex	-	10
+Con	-	11	+1
+Int	-	12
+Wis	-	16
+Cha	-	8
