@@ -31,3 +31,6 @@
 *.ico
 *.3dm
 *.max
+
+*.zip
+*.DS_STORE
