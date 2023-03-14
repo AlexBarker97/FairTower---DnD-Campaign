@@ -1,0 +1,26 @@
+Map for
+	Floor 1 of testing
+	Floor 2 of testing
+	Portal Room
+	Floor 3 of testing
+	Floor 4 of testing
+	Floor 5 (exam?)
+
+Complete characters
+	Jobs
+	More general talking points for each
+	Age
+	Zikky - Artificier Level 3 info
+	CortezCorsairs
+
+Loot tables
+	For people pickpocketing
+	For challenges
+
+Look into weapon choices in the starting floor
+	Guns for Azrael
+	Gun for Violet
+	Weapon/Shield for Armando
+	? for Sheldon
+	Steph - Cleaver (handaxe)
+

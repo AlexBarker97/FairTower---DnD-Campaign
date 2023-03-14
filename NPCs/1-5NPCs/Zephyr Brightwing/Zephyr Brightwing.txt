@@ -1,0 +1,16 @@
+Zephyr Brightwing
+Aarakocra Fighter - Superior Technique - Evasive Footwork
+When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.
+
+Zephyr - A soft breeze
+
+A pilot - Of both airships and myself (lightly gesturing to his own wings)
+He heard about the Sky Cruiser... Aurora I think it was called. What a shameful display of engineering. They tried to pack on too many new features onto one airship and couldn't find the problem before it was already 6 foot under.
+
+Starting
+Str	-	16
+Dex	-	12+2
+Con	-	8
+Int	-	12
+Wis	-	10+1
+Cha	-	14

@@ -1,0 +1,39 @@
+Thudrick Bloodstrike
+Bugbear Fighter
+	Melee bow fighter (rarely has arrows)
+	Close Quarters Shooter (UA)
+
+Dumb A F
+5 Int (barely human like sentience)
+
+Str	-	20+2	-	6
+Dex	-	12		-	1
+Con	-	12		-	1
+Int	-	5		-	-3
+Wis	-	8		-	-1
+Cha	-	5		-	-3
+
+Skills
+	Prof:
+		Athletics
+		Survival
+		Stealth
+
+	Acrobatics (1)
+	Animal Handling (-1)
+	Arcana (-3)
+	Athletics (6)+2
+	Deception (-3)
+	History (-3)
+	Insight (-1)
+	Intimidation (-3)
+	Investigation (-3)
+	Medicine (-1)
+	Nature (-3)
+	Perception (-1)
+	Performance (-3)
+	Persuasion (-3)
+	Religion (-3)
+	Sleight of Hand (1)
+	Stealth (1)+2
+	Survival (-1)+2

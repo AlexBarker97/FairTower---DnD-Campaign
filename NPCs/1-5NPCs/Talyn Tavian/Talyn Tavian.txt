@@ -1,2 +1,19 @@
 Talyn Tavian
-Kunku fighter
+Kenku fighter
+
+Thrown Weapon Fighting from the air
+
+Finesse weapons preferred (Dex>Str)
+
+Acts clumsy but is surprisingly good
+
+Birdbrain int (insulted by others)
+CAN ONLY MIMIC WHAT OTHERS SAY
+
+Str	-	10
+Dex	-	17+2
+Con	-	16
+Int	-	6
+Wis	-	7+1
+Cha	-	8
+

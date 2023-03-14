@@ -1,0 +1,38 @@
+Thorn Stonebellow
+Bard Half Orc
+
+Worked as an appraiser
+
+Str	-	12+2
+Dex	-	12
+Con	-	11+1
+Int	-	12
+Wis	-	13
+Cha	-	14
+
+Just a good helpful guy, will value or check any rare l00t
+
+Proficiency
+	Athletics
+	Intimidation
+	Persuasion
+	History
+
+Acrobatics (1)
+Animal Handling (1)
+Arcana (1)
+Athletics (2) +2
+Deception (2)
+History (1) +2
+Insight (1)
+Intimidation (2) +2
+Investigation (1)
+Medicine (1)
+Nature (1)
+Perception (1)
+Performance (2)
+Persuasion (2) +2
+Religion (1)
+Sleight of Hand (1)
+Stealth (1)
+Survival (1)
